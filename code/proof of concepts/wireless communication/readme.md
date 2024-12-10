@@ -1,5 +1,5 @@
 # draadloze communicatie proof of concept
-minimale hard- en software waarmee aangetoond wordt dat duplex kan gecommuniceerd worden tussen de microcontroller en een android smartphone, gebruik makend van [serial bluetooth monitor].
+minimale hard- en software waarmee aangetoond wordt dat duplex kan gecommuniceerd worden tussen de microcontroller en een android smartphone, gebruik makend van "serial bluetooth monitor".
 <br />
 ### configuratie
 
