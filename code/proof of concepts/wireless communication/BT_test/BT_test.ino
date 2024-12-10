@@ -8,7 +8,7 @@ BluetoothSerial SerialBT;
 
 void setup() {
   Serial.begin(115200);
-  SerialBT.begin("ESP32_stanG"); //Bluetooth device name
+  SerialBT.begin("ESP32_stanG"); //pas dit aan naar de naam van je apparaat
   Serial.println("The device started, now you can pair it with bluetooth!");
 }
 
