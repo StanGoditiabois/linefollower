@@ -21,5 +21,5 @@
 |16|moer|moer m3|recup| |4| |
 |17|3D print||school||1||
 |18|oogje|verhoog voor onder sensor|recup||1||
-|19|Volt regulator|nieuw|LF33CV Volt regulator|0.82|1|0.82|
+|19|Volt regulator|LF33CV Volt regulator|nieuw|0.82|1|0.82|
 |20|Balast vooraan||recup||||
