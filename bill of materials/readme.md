@@ -20,3 +20,6 @@
 |          15|bout|bout m3|recup| |1| |
 |          16|moer|moer m3|recup| |1| |
 |17|3D print||school||1||
+|18|oogje|verhoog voor onder sensor|recup||1||
+
+nog 3.3v regulator toevoegen
