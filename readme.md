@@ -19,9 +19,9 @@ batteries: 18650
 
 wireless communication: ingebouwt in microcontroller
 
-distance sensor - motors: 
+distance sensor - motors: 98 mm
 
 weight:
 
-speed: 
+speed: 0.68 m/s
 
