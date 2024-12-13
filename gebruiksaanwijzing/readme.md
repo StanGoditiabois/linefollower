@@ -1,7 +1,7 @@
 # Gebruiksaanwijzing
 
 ### opladen / vervangen batterijen
-uitleg over het opladen of vervangen van de batterijen
+Bij deze robot worden 18650 batterijen gebruikt deze kunnen worden opgeladen met een lader die hiervoor is gemaakt.
 
 ### draadloze communicatie
 #### verbinding maken
