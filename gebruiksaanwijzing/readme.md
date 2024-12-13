@@ -25,11 +25,11 @@ Om te kalibreren plaats je eerst de robot met elke sensor over een zwart stuk. s
 
 ### settings
 De robot rijdt stabiel met volgende parameters: 
-power: 200
-diff: 0.4
-kp: 18
-ki: 0
-kd: 0.2
+- power: 200
+- diff: 0.4
+- kp: 18
+- ki: 0
+- kd: 0.2
 
 ### start/stop button
 De twee knoppen zijn te vinden tussen de batterijen. Knop 22 wordt gebruikt om de robot te laten stoppen en knop 23 om de robot te laten starten.
