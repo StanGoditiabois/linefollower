@@ -44,7 +44,7 @@ struct param_t
 
 void setup()
 {
-  SerialPort.begin("ESP32_matt");// aanpassen per esp
+  SerialPort.begin("ESP32_stanG");// aanpassen per esp
 
   sCmd.addCommand("set", onSet);
   sCmd.addCommand("debug", onDebug);
